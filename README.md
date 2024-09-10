@@ -5,13 +5,24 @@ The knock-knock game has much hidden knowledge in it!  What can you learn from t
 ### 10 Scavenger Hunt Questions:###
 These get harder as you go.  
 1. What are the blue parts (light) | yellow parts (dark) called?
+**keywords**
 2. What is true about ALMOST ALL of these (ends)?
+**theres a ; after**
 3. What are the black parts (light) | blue-gray parts (dark) called?
+**attributes**
 4. what is true of all of these the first time you see them? 
-5. What do you call a complete line of code in Javascript? 
+**they start with var**
+5. What do you call a complete line of code in Javascript?
+** 
 6. What is true about SOME of these: brown parts (light) | salmon parts (dark)?
+**they're in ()**
 7. What do the parentheses "mean"?  What do they "do"?
+**hold arguments for functions**
 8. What do the green parts "mean"?  What do they "do"?
+**grouping**
 9. What is the difference between = and == ?
+**= is to assign value to a variable, == is to compare variables**
 10. What happens if you click the minus sign (or down arrows) by "function"?
+**shows less**
 11. What other patterns do you see? 
+**it says function before each group of code**
